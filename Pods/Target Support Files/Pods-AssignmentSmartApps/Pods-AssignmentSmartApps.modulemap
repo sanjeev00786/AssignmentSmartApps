@@ -1,0 +1,6 @@
+framework module Pods_AssignmentSmartApps {
+  umbrella header "Pods-AssignmentSmartApps-umbrella.h"
+
+  export *
+  module * { export * }
+}
